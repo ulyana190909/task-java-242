@@ -1,8 +1,13 @@
 "registered user, bonus under limit",100060,true,30
 "registered user, bonus over limit",100000060,true,500
-"registered user, bonus under limit",100060,false,30
-"registered user, bonus over limit",100000060,false,10
+"registered user, bonus under limit",100060,false,10
+"registered user, bonus over limit",100000060,false,500
 "registered user, bonus under limit",586000,true,175
 "registered user, bonus over limit",500000060,true,500
 "registered user, bonus under limit", 960000,false,96
-"registered user, bonus under limit",59000,true,100
+"registered user, bonus under limit",59000,true,17
+"registered user, bonus over limit",85425965,false,500
+"registered user, bonus under limit",96584120,true,500
+"registered user, bonus over limit",98598596,true,500
+"registered user, bonus under limit", 36580000,false,500
+"registered user, bonus under limit",10000,true,3
